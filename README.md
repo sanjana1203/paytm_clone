@@ -27,14 +27,7 @@ Clean section-wise layout using Flexbox
 Footer with expandable rows and social icons
 Simple and clean UI similar to Paytm
 
-How to Run
-
-Download or clone the repository
-git clone https://github.com/your-username/paytm-clone.git
-Open the project folder
-Open index.html in any web browser
-
-🎯 Learning Outcomes
+Learning Outcomes
 
 Practiced Flexbox and layout alignment
 Improved understanding of real-world website UI

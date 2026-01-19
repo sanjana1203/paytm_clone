@@ -1,35 +1,43 @@
 # paytm_clone
-A static Paytm homepage clone built using pure HTML and CSS, focusing on layout structure, spacing, and UI design similar to the official Paytm website.
+# Paytm Clone Using HTML & CSS
 
-Project Description
+This project is a **Paytm homepage clone** built using **HTML and CSS**.  
+It replicates the layout and visual design of the Paytm website, focusing on frontend structure, styling, and UI consistency.
 
-This project recreates the Paytm landing page UI, including the navigation bar, multiple banner sections, service highlights, and footer. It is a frontend-only project created to practice HTML and CSS layout techniques.
+## Project Overview
 
-Technologies Used
+- **Type:** Frontend Web Development  
+- **Domain:** Web Design / UI Development  
+- **Technologies:** HTML, CSS  
+- **Project Focus:** UI layout and styling  
 
-HTML5 – Page structure and content
-CSS3 – Styling, Flexbox layout, spacing, and alignment
+The project emphasizes recreating a real-world fintech website interface using clean and structured frontend code.
 
-Project Structure
+## Features
 
-Paytm-Clone/
-│
-├── index.html     # Main HTML file
-├── style.css      # CSS styling file
-├── images/        # Images used in the UI
-└── README.md      # Project documentation
+- Navigation bar with menu links and download/sign-in options  
+- Recharge and bill payment section  
+- Travel booking UI (Flights, Bus, Trains)  
+- UPI payment promotional section  
+- Business services and investment sections  
+- Detailed footer with company links and social media icons  
 
-Features
+## Technologies Used
 
-Paytm-style navigation bar
-Multiple promotional banner sections
-Clean section-wise layout using Flexbox
-Footer with expandable rows and social icons
-Simple and clean UI similar to Paytm
+- HTML5  
+- CSS3  
 
-Learning Outcomes
+## Applications
 
-Practiced Flexbox and layout alignment
-Improved understanding of real-world website UI
-Learned section-based page structuring
-Strengthened HTML & CSS fundamentals
+- Frontend development practice  
+- Fintech UI cloning projects  
+- Website layout and styling learning  
+- HTML & CSS portfolio projects  
+
+## Conclusion
+
+This project demonstrates strong frontend development skills by accurately recreating a complex real-world fintech website layout using only HTML and CSS.
+
+## Author
+
+**sanjana.h.k**
